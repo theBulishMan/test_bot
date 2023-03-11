@@ -1,0 +1,52 @@
+{
+  "model": {
+    "type" : "chatgpt",
+    "openai": {
+      "api_key": "YOUR API KEY",
+      "proxy": "",
+      "conversation_max_tokens": 1000,
+      "character_desc": "你是ChatGPT, 一个由OpenAI训练的大型语言模型, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。"
+    }
+  },
+
+  "channel": {
+    "type": "terminal",
+    "single_chat_prefix": ["bot", "@bot"],
+    "single_chat_reply_prefix": "[bot] ",
+    "group_chat_prefix": ["@bot"],
+    "group_name_white_list": ["ChatGPT测试群"],
+    "image_create_prefix": ["画", "看", "找一张"],
+
+    "terminal": {
+    },
+
+    "wechat": {
+    },
+
+    "wechat_mp": {
+      "token": "YOUR TOKEN",
+      "port": "8088"
+    },
+
+    "gmail": {
+      "subject_keyword": ["bot", "@bot"],
+      "host_email": "xxxx@gmail.com",
+      "host_password": "GMAIL ACCESS KEY"
+    },
+
+    "telegram": {
+      "bot_token": "xx:xx"
+    },
+
+    "slack": {
+      "slack_bot_token": "xoxb-xxxx",
+      "slack_signing_secret": "xxxx"
+    },
+
+    "http": {
+      "http_auth_secret_key": "6d25a684-9558-11e9-aa94-efccd7a0659b",
+      "http_auth_password": "6.67428e-11",
+      "port": "80"
+    }
+  }
+}
