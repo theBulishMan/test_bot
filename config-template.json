@@ -9,14 +9,10 @@
     }
   },
   "channel": {
-    "type": "terminal",
+    "type": "wechat_mp",
     "wechat_mp": {
-      "token": "YOUR TOKEN",
-      "port": "8088"
-    },
-    "wechat_mp": {
-      "token": "YOUR TOKEN",
-      "port": "8088"
+      "token": "weiranzhilan",
+      "port": "80"
     }
     
   }
