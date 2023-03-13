@@ -1,18 +1,18 @@
 # test_bot
 确保python版本高于3.7
-
+```bash
     python3 -v
-
+```
 安装依赖
 
 werobot:
 ```bash
- pip3 install werobot
-  
+pip3 install werobot
+```
 openai:
 ```bash
 pip3 install --upgrade openai
-  
+```
 编辑config.json文件
 ```bash
 "channel": {
@@ -23,7 +23,7 @@ pip3 install --upgrade openai
           "port": "80"                 
         }
        }
-  
+ ``` 
 微信个人订阅号
 http 访问的是80 https访问的是443 
 记得设置好端口
