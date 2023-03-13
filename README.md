@@ -26,7 +26,8 @@ http 访问的是80 https访问的是443
 记得设置好端口
 
 填入key：
-   ```   "model": {
+   ```   
+   "model": {
         "type" : "chatgpt",
         "openai": {
           "api_key": "",
