@@ -1,4 +1,8 @@
 # test_bot
+再linux上运行
+Ubuntu
+上确认可行
+克隆项目进入目录
 确保python版本高于3.7
 ```bash
 python3 -v
