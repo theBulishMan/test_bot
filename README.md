@@ -41,7 +41,7 @@ http 访问的是80 https访问的是443
         }
 ```
 然后就可以试着运行app.py文件了
-python3 app.py
+        python3 app.py
 出现
 ```bash
 [wechat_mp_channel.py:25] - [WX_Public] Wechat Public account service start!
