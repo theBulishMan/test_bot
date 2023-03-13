@@ -6,8 +6,10 @@
 安装依赖
 werobot:
    ``` pip3 install werobot```
+   
 openai:
   ```  pip3 install --upgrade openai```
+  
 编辑config.json文件
     ```"channel": {
         "type": "wechat_mp",
