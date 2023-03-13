@@ -4,9 +4,9 @@
     python3 -v
 
 安装依赖
-werobot：
+werobot:
     pip3 install werobot
-openai
+openai:
     pip3 install --upgrade openai
 编辑config.json文件
     "channel": {
