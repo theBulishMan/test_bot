@@ -5,9 +5,9 @@
 
 安装依赖
 
-“pip3 install werobot”
+    “pip3 install werobot”
 
-“pip3 install --upgrade openai”
+    “pip3 install --upgrade openai”
 
 
 编辑config.json文件
