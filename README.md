@@ -58,13 +58,15 @@ Hit Ctrl-C to quit.
 
 
 
+首先选择基本配置界面
+
+
 
 
 ![image](https://user-images.githubusercontent.com/100390604/224756235-ffad0d4b-c33c-437b-9fdf-90ced8bb6e82.png)
 
 
 
-首先选择基本配置界面
 
 
 
