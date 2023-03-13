@@ -51,8 +51,13 @@ Hit Ctrl-C to quit.
 ```
 就基本上成功了
 公众号配置
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/100390604/224756235-ffad0d4b-c33c-437b-9fdf-90ced8bb6e82.png)
-首先在基本配置界面
+首先选择基本配置界面
 ![image](https://user-images.githubusercontent.com/100390604/224756405-853517a5-3529-4456-b881-08bc40037ae0.png)
 token填你记得住的和config.json中保持一致
 url填你的域名或者公网如http://加上你的公网ip
