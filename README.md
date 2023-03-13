@@ -6,13 +6,16 @@
 安装依赖
 
 werobot:
- ```pip3 install werobot
- ```  
+```bash
+ pip3 install werobot
+  
 openai:
-```pip3 install --upgrade openai
-```  
+```bash
+pip3 install --upgrade openai
+  
 编辑config.json文件
-```"channel": {
+```bash
+"channel": {
         "type": "wechat_mp",
 
         "wechat_mp": {
@@ -20,13 +23,13 @@ openai:
           "port": "80"                 
         }
        }
-```  
+  
 微信个人订阅号
 http 访问的是80 https访问的是443 
 记得设置好端口
 
 填入key：
-   ```   
+```bash
    "model": {
         "type" : "chatgpt",
         "openai": {
